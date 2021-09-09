@@ -1,0 +1,19 @@
+{
+    "name": "webeasy/contact",
+    "description": "This is simple package for contact form.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Webeasy\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Moin Abbas",
+            "email": "moinabbas80@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
